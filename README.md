@@ -41,7 +41,7 @@ The scenario and requirements were fictional and intended for educational purpos
    make
    ```
 
-   This generates two executables: `chat_client` and `chat_server`.
+   This generates two executables: `client` and `server`.
 
 ### Running the Server
 
@@ -54,7 +54,7 @@ The scenario and requirements were fictional and intended for educational purpos
 
 1. Start the client, connecting to the server on the same port:
    ```bash
-   ./chat_client <server_ip> <port_number>
+   ./chat_client <port_number>
    ```
 
 2. Enter a username when prompted and start chatting!
