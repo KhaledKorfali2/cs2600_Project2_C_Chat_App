@@ -1,1 +1,1 @@
-# cs2600_Project2_C_Chat_App
+# cs2600_proj2
